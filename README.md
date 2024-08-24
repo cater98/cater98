@@ -1,5 +1,7 @@
 # Hey 👋, I'm Turkov Ivan!
 
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/WRccR638KqQRn3UoOu/giphy.gif" />
+
 ### About Me
 
 I'm a Beginner Frontend Developer living in Russia.

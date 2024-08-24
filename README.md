@@ -1,5 +1,9 @@
 # Hey 👋, I'm Turkov Ivan!
 
+I'm a Beginner Frontend Developer living in Russia.
+
+---
+
 ## 📚 Languages and Tools
 
 <div>

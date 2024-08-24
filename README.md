@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a Beginner Frontend Developer living in Russia.
+I'm a **Beginner Frontend Developer** living in **Russia**.
 
 ---
 

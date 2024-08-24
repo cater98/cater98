@@ -1,6 +1,6 @@
 # Hey 👋, I'm Turkov Ivan!
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/WRccR638KqQRn3UoOu/giphy.gif" />
+<img align="right" alt="GIF" src="https://i.giphy.com/QDjpIL6oNCVZ4qzGs7.webp" />
 
 ### About Me
 

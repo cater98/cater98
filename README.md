@@ -1,6 +1,6 @@
 # Hey 👋, I'm Turkov Ivan!
 
-## Languages and Tools
+## 📚 Languages and Tools
 
 <div>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

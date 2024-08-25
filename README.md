@@ -1,6 +1,6 @@
 # Hey 👋, I'm Turkov Ivan!
 
-### 📃 About Me
+### 📝 About Me
 
 I'm a **Beginner Frontend Developer** living in **Russia**.
 

@@ -24,3 +24,5 @@ I'm a **Beginner Frontend Developer**, living in **Russia**. I really love progr
 </div>
 
 ### 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cater98)](https://github.com/cater98/github-readme-stats)

@@ -27,5 +27,5 @@ I'm a **Beginner Frontend Developer**, living in **Russia**. I really love progr
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cater98&show_icons=true&theme=tokyonight)
 ](https://github.com/cater98/github-readme-stats&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cater98&layout=compact&theme=tokyonigh)](https://github.com/cater98/github-readme-stats&layout=compact&theme=tokyonigh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cater98&layout=compact&theme=tokyonight)](https://github.com/cater98/github-readme-stats&layout=compact&theme=tokyonight)
 

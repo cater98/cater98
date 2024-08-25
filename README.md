@@ -2,7 +2,8 @@
 
 ### 📝 About Me
 
-I'm a **Beginner Frontend Developer** living in **Russia**.
+I'm a **Beginner Frontend Developer** living in **Russia**. I really love programming, because with the help of programming a new world appears in front of you. You can create almost anything from a simple calculator to an operating system.
+
 
 ---
 

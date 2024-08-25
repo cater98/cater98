@@ -1,7 +1,5 @@
 # Hey 👋, I'm Turkov Ivan!
 
-<img align="right" width="500px" height="400px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
-
 ### 📝 About Me
 
 I'm a **Beginner Frontend Developer**, living in **Russia**. I really love programming because with it, a new world appears in front of you. You can create almost anything, from a simple calculator to an operating system. I am enthusiastic about learning programming and really want to become an expert in this field.

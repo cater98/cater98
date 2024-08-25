@@ -1,6 +1,6 @@
 # Hey 👋, I'm Turkov Ivan!
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+<img align="right" width="100px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
 
 ### 📝 About Me
 
@@ -20,6 +20,8 @@ I'm a **Beginner Frontend Developer**, living in **Russia**. I really love progr
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img width="8" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width="8" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>

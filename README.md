@@ -22,3 +22,5 @@ I'm a **Beginner Frontend Developer**, living in **Russia**. I really love progr
   <img width="8" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
+
+## 📊 Stats

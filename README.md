@@ -7,7 +7,7 @@ I'm a **Beginner Frontend Developer**, living in **Russia**. I really love progr
 
 ---
 
-### 📚 Languages and Tools 🛠️
+### 📚 Languages and Tools 
 
 <div>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />

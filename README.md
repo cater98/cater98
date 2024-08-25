@@ -1,7 +1,5 @@
 # Hey 👋, I'm Turkov Ivan!
 
-<a href="https://t.me/Qutie_Demure" target="_blank"><img width="24px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="Telegram"></a>
-
 ### 📝 About Me
 
 I'm a **Beginner Frontend Developer**, living in **Russia**. I really love programming because with it, a new world appears in front of you. You can create almost anything, from a simple calculator to an operating system. I am enthusiastic about learning programming and really want to become an expert in this field.

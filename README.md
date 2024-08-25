@@ -1,6 +1,6 @@
 # Hey 👋, I'm Turkov Ivan!
 
-<img align="right" width="500px" height="500px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<img align="right" width="500px" height="400px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 
 ### 📝 About Me
 

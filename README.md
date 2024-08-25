@@ -1,6 +1,6 @@
 # Hey 👋, I'm Turkov Ivan!
 
-<a href="https://t.me/Qutie_Demure" width="24px" target="_blank"><img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="Telegram"></a>
+<a href="https://t.me/Qutie_Demure" target="_blank"><img width="24px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="Telegram"></a>
 
 ### 📝 About Me
 

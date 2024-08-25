@@ -2,12 +2,11 @@
 
 <img align="right" height="200px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" />
 
+---
+
 ### 📝 About Me
 
 I'm a **Beginner Frontend Developer**, living in **Russia**. I really love programming because with it, a new world appears in front of you. You can create almost anything, from a simple calculator to an operating system. I am enthusiastic about learning programming and really want to become an expert in this field.
-
-
----
 
 ### 📚 Languages and Tools 
 
